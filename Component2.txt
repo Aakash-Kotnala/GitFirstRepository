@@ -5,7 +5,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Tongue Twisters</h1>
+	
 		<h2>First Few Twister</h2>
 			<p>Kitten is eating chicken in the kitchen!!!</p>
 			<p>Bitty bought the butter but the butter<br>
