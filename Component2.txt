@@ -16,7 +16,6 @@
 	<h5>Heading 5</h5>
 	<h6>Heading 6</h6>
 	<p>line 1</p>
-	<p>line 2</p>
 	<p>line 3</p>
 	<p>line 8</p>
 	<p>line 9</p>
