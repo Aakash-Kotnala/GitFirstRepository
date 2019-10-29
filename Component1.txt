@@ -7,6 +7,10 @@
 	<h1>hey hey hey</h1>
 	Hello everyone welcome to the world of HTML
 	<br><br>
+	<h1>CHANGES IN COMPONENT 1 new</h1>
+	<br><br>
+	<h1>CHANGES IN COMPONENT 1 new</h1>
+	
 	Bitty Bought the Butter but the butter was bitter<br>
 	so bitty bought &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some more butter to get <br>
 	the bitter butter better<br>
