@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,3 +22,34 @@
 	<a href="FifthHtml.html">Go Back</a>
 </body>
 </html>
+=======
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Tongue Twisters</h1>
+		<h2>First Few Twister</h2>
+			<p>Kitten is eating chicken in the kitchen!!!</p>
+			<p>Bitty bought the butter but the butter<br>
+			was bitter but bitty bought some more butter to get the<br> 
+			bitter butter better</p>
+	<h3>Heading 1 child 2</h3>
+	<h4>Heading 2 child 2</h4>
+	<h5>Heading 3 by child 2</h5>
+	<h3>Heading 3</h3>
+	<h4>Heading 4</h4>
+	<h5>Heading 5</h5>
+	<h6>Heading 6</h6>
+	<h6>Heading 7</h6>
+	<h6>Heading 8</h6>
+	<h6>Heading 9</h6>
+
+<br><br>
+	
+	<a href="FifthHtml.html">Go Back</a>
+</body>
+</html>
+>>>>>>> 2bf55c4e822d775950ff5193a92974a72391bf3c
