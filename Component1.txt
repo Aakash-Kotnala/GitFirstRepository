@@ -20,17 +20,12 @@
 	<p> something added by gitbash in child 1 </p>
 	<p> something added by gitbash in child 1 </p>
 	
-	Changes by Child 2
-	Changes by Child 2
-	Changes by Child 2
-	Changes by Child 2
-	Changes by Child 2
-
-	Changes by Child 1
-	Changes by Child 1
-	Changes by Child 1
-	Changes by Child 1
-	Changes by Child 1
+	<p> something added by gitbash in child 2 </p>
+	<p> something added by gitbash in child 2 </p>
+	<p> something added by gitbash in child 2 </p>
+	<p> something added by gitbash in child 2 </p>
+	<p> something added by gitbash in child 2 </p>
+	
 	<br><br>
 	
 	<a href="FifthHtml.html">Go Back</a>
