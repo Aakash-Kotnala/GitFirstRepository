@@ -14,17 +14,12 @@
 	Bitty Bought the Butter but the butter was bitter<br>
 	so bitty bought &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some more butter to get <br>
 	the bitter butter better<br>
-	<p> something added by TL in child 1 </p>
-	<p> something added by TL in child 1 </p>
-	<p> something added by TL in child 1 </p>
-	<p> something added by TL in child 1 </p>
-	<p> something added by TL in child 1 </p>
-	<p> something added by Developer in child 3 </p>
-	<p> something added by Developer in child 3 </p>
-	<p> something added by Developer in child 3</p>
-	<p> something added by Developer in child 3 </p>
-	<p> something added by Developer in child 3 </p>
-
+	<p> something added by gitbash in child 1 </p>
+	<p> something added by gitbash in child 1 </p>
+	<p> something added by gitbash in child 1 </p>
+	<p> something added by gitbash in child 1 </p>
+	<p> something added by gitbash in child 1 </p>
+	
 	Changes by Child 2
 	Changes by Child 2
 	Changes by Child 2
