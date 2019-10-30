@@ -24,7 +24,13 @@
 	<p> something added by Developer in child 3</p>
 	<p> something added by Developer in child 3 </p>
 	<p> something added by Developer in child 3 </p>
-
+	Changes by Child 1
+		Changes by Child 1
+	Changes by Child 1
+	Changes by Child 1
+	Changes by Child 1
+		
+		
 	<br><br>
 	
 	<a href="FifthHtml.html">Go Back</a>
